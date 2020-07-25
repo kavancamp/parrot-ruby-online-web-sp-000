@@ -6,3 +6,4 @@ puts phrase
 
 
 end
+parrot()
